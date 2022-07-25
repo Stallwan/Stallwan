@@ -1,7 +1,7 @@
 ```rs
 // Emblematic program of the two powers
 
-fn main() {
+fn fibonacci() {
     let mut a = 0;
     let mut b = 1;
 
