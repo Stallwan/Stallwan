@@ -8,7 +8,7 @@ fn fibonacci() {
 
     loop {
         println!("{a}");  
-        a = a + b;
+        a += b;
         b = a;
     }
 }
