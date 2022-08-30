@@ -13,4 +13,3 @@ fn fibonacci() {
     }
 }
 ```
-[.](https://static.fsf.org/nosvn/videos/escape-to-freedom/videos/escape-to-freedom-720p.webm)
