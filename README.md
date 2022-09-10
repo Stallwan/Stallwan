@@ -1,15 +1,1 @@
-```rs
-// Emblematic program of the two powers
-
-fn fibonacci() {
-
-    let mut a = 0;
-    let mut b = 1;
-
-    loop {
-        println!("{a}");  
-        a += b;
-        b = a;
-    }
-}
-```
+Hello, I am a young and enthusiastic apprentice developer named b4b4. I code in Python, Rust and most of the known web languages. I am currently working on `wafl` which will be a functional programming language. I like freedom and health, especially free software, like Vim and Linux. Finally, I am very interested in virtual reality and more exactly in metaverse. Later on, I intend to develop an open-source metaverse based on the two notions I care about, stated above.
