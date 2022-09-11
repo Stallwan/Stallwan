@@ -1,1 +1,5 @@
-Hello, I am a young and enthusiastic apprentice developer named b4b4. I code in Python, Rust and most of the known web languages. I am currently working on `wafl` which will be a functional programming language. I like freedom and health, especially free software, like Vim and Linux. Finally, I am very interested in virtual reality and more exactly in metaverse. Later on, I intend to develop an open-source metaverse based on the two notions I care about, stated above.
+Hi, I'm  [b4b4](https://b4-b4.github.io), an enthusiastic apprentice developer. I program in Python and Rust.
+
+- I'm currently worked on [wafl](https://github.com/b4-b4/wafl);
+- I learn Rust;
+- I study the functional paradigm and lambda functions;
