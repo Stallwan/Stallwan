@@ -1,6 +1,13 @@
-Hi, I'm  [Stallwan](https://stallwan.github.io), an enthusiastic apprentice developer. I program in Python and Rust.
+Hi, I'm Stallwan, an enthusiastic apprentice developer. I use open-source tools (linux, vim, ...) and I program in Rust and Python. At the moment I'm:
+- learn the Rust language;
+- study how virtual machines work;
+- learn how to use StumpWM and GNU Emacs.
 
-- I'm currently worked on [wafl](https://github.com/b4-b4/wafl);
-- I learn Rust;
-- I practice with Emacs.
-- I study the functional paradigm and lambda functions;
+I particularly like:
+- the development of programming languages and kernel;
+- the Lisp programming language;
+- easter-eggs;
+- Lego;
+- Minecraft;
+- pinball;
+- the great and venerable Richard Stallman.
