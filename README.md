@@ -7,7 +7,5 @@ I particularly like:
 - the development of programming languages and kernel;
 - the Lisp programming language;
 - easter-eggs;
-- Lego;
-- Minecraft;
-- pinball;
+- Lego, Minecraft and pinball;
 - the great and venerable Richard Stallman.
