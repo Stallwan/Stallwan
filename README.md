@@ -1,11 +1,5 @@
-Hi, I'm Stallwan, an enthusiastic apprentice developer. I use open-source tools (linux, vim, ...) and I program in Rust and Python. At the moment I'm:
-- learn the Rust language;
-- study how virtual machines work;
-- learn how to use StumpWM and GNU Emacs.
-
-I particularly like:
-- the development of programming languages and kernel;
-- the Lisp programming language;
-- easter-eggs;
-- Lego, Minecraft and pinball;
-- the great and venerable Richard Stallman.
+Hi, I'm [Stallwan](https://stallwan.github.io), an enthusiastic french apprentice developer of 15 y.o. I code in Rust and Python.
+Actually, I:
+- Learn the [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) programming language;
+- Study the design of programming languages;
+- Play Minecraft.
