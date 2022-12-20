@@ -1,14 +1,8 @@
 ```rust
-// Emblematic program of the two powers
-
-fn main() {
-    let mut a = 1;
-    let mut b = 1;
-
-    loop {
-        println!("{a}");  
-        a += b;
-        b = a;
-    }
+struct Luke {
+    age: 15,
+    hobby: vec!["math", "computer science", "games"],
+    my_languages: vec!["Python", "Rust", "Common Lisp", "Brainfuck"],
+    fun_fact: String::from("I enjoy LEGO.")
 }
 ```
