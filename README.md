@@ -1,8 +1,18 @@
-```rust
-struct Luke {
-    age: 15,
-    hobby: vec!["math", "computer science", "games"],
-    my_languages: vec!["Python", "Rust", "Common Lisp", "Brainfuck"],
-    fun_fact: String::from("I enjoy LEGO.")
+```json
+{
+   "me": {
+      "nickname": "Luke",
+      "hobby": [
+         "Maths",
+         "Computer Science",
+         "Games"
+      ],
+      "tech": [
+         "Python",
+         "Rust",
+         "Brainfuck"
+      ],
+      "fun_fact": "I enjoy LEGO."
+   }
 }
 ```
